@@ -11,6 +11,6 @@ def main():
     impar_par(n)
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
         
