@@ -14,4 +14,33 @@ The purpose of this repository is to document my learning journey while applying
 - Software Architecture
 - Clean Code Principles
 
+## Classes
+
+### Class 20/08
+
+#### Topics Covered
+- _To be added_
+
+#### Activities and Assignments
+- _To be added_
+
+#### Notes
+- _To be added_
+
+<!--
+Template for new classes:
+
+### Class DD/MM
+
+#### Topics Covered
+- _To be added_
+
+#### Activities and Assignments
+- _To be added_
+
+#### Notes
+- _To be added_
+-->
+
 > **Disclaimer:** The projects and source code in this repository are academic works developed for the Software Engineering course. They are intended for educational purposes and continuous professional development.
+
