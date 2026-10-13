@@ -1,5 +1,5 @@
-from src.models.pedido import Pedido
-from src.database.connection import DatabaseConnection
+from app.src.models.pedido import Pedido
+from app.src.database.connection import DatabaseConnection
 
 class PedidoRepository:
     """Classe de repositório para armazenar e gerenciar pedidos."""

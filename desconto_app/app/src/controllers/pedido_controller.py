@@ -1,5 +1,5 @@
-from src.models.pedido import Pedido
-from src.services.pedido_service import PedidoService
+from app.src.models.pedido import Pedido
+from app.src.services.pedido_service import PedidoService
 
 class PedidoController:
     """Classe de controlador para gerenciar a lógica de negócios dos pedidos."""

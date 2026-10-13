@@ -1,9 +1,9 @@
-from src.controllers.pedido_controller import PedidoController
-from src.repositories.pedido_repository import PedidoRepository
-from src.services.pedido_service import PedidoService
-from src.database.connection import DatabaseConnection
-from src.models.desconto import DescontoNormal, DescontoVIP, DescontoPremium
-from src.models.pedido import Pedido
+from app.src.controllers.pedido_controller import PedidoController
+from app.src.repositories.pedido_repository import PedidoRepository
+from app.src.services.pedido_service import PedidoService
+from app.src.database.connection import DatabaseConnection
+from app.src.models.desconto import DescontoNormal, DescontoVIP, DescontoPremium
+from app.src.models.pedido import Pedido
 
 if __name__ == "__main__":
    # Configuração do repositório e serviço
