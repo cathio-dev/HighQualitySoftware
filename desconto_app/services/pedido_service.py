@@ -1,4 +1,4 @@
-from app.src.models.pedido import Pedido
+from desconto_app.models.pedido import Pedido
 
 class PedidoService:
     """Classe de serviço para processar pedidos e aplicar descontos."""
